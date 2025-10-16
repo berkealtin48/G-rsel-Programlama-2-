@@ -1,0 +1,10 @@
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.csproj.AssemblyReference.cache
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\CiftleriSiraylaTikla.Form1.resources
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.Properties.Resources.resources
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.csproj.GenerateResource.cache
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.csproj.CoreCompileInputs.cache
+C:\Users\lab-c\Desktop\ödev5\bin\Debug\ödev5.exe.config
+C:\Users\lab-c\Desktop\ödev5\bin\Debug\ödev5.exe
+C:\Users\lab-c\Desktop\ödev5\bin\Debug\ödev5.pdb
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.exe
+C:\Users\lab-c\Desktop\ödev5\obj\Debug\ödev5.pdb
